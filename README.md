@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div align="center">
-  <img src="https://www.flaticon.com/free-icon/python_5968350" width="600" height="300"/>
+  <img src="![image](https://github.com/zainnaeem64/zainnaeem64/assets/129911429/4fd6986b-50e1-4239-9520-1f7dd3efa43a)" width="60" height="30"/>
 </div>
 
 

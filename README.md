@@ -1,8 +1,5 @@
-### Hi there 👋
+##### Hi there 👋
 
-<div align="center">
-  <img src="https://github.com/zainnaeem64/zainnaeem64/assets/129911429/4fd6986b-50e1-4239-9520-1f7dd3efa43a" width="400"/>
-</div>
 
 ---
 
